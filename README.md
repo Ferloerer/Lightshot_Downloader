@@ -10,3 +10,8 @@ Script allows to include a <b>http_proxies.txt</b> in which all Proxy-Ips with P
 2. Enter the amount of images you want to download.
 3. The Images will be downloaded into the same folder as the script.
 4. Have fun with your images!
+
+
+
+<h1><u><b>Attention</b></u></h1>
+Do not overuse without proxy. You might get blacklisted.
