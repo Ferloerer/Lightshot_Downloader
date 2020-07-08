@@ -1,7 +1,7 @@
 # Lightshot Downloader with proxy hopper
 A python script which randomizes numbers [0-9] and characters [a-z] to generate a randomized link e.g: https://prnt.sc/abc123.
 
-Script allows to include a <b>http_proxies.txt</b> in which all Proxy-Ips and ports are store e.g: <b>123.123.123.123:8080</b>
+Script allows to include a <b>http_proxies.txt</b> in which all Proxy-Ips and ports are stored e.g: <b>123.123.123.123:8080</b>
 
 
 
